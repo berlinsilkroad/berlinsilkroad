@@ -1,16 +1,16 @@
 # Site settings
-title: Berlins Blog
+title: Berlins Blog  #你博客的标题
 SEOTitle: 丝路精灵的博客 | berlins Blog #显示在浏览器上搜索的时候显示的标题
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-desk1.jpg
 email: botron.campus@aliyun.com
-description: "Every failure is leading towards success."
-keyword: "berlins Blog, 丝路精灵的博客, qiubaiying, 丝路精灵, iOS, Apple, iPhone"
+description: "Every failure is leading towards success，Berlin."   #网站介绍
+keyword: "berlins Blog, 丝路精灵的博客, 丝路精灵, iOS, Apple, iPhone"#关键词
 url: "http://berlinsilkroad.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+#github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
+sidebar: true                           # whether or not using Sidebar.# 是否开启侧边栏.
 sidebar-about-description: "Goals determine what you going to be!"
 sidebar-avatar: /img/avatar-m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
@@ -18,11 +18,11 @@ sidebar-avatar: /img/avatar-m.jpg      # use absolute URL, seeing it's used in b
 
 # SNS settings  社交账号的用户名
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
+# weibo_username:     
+csdn_username:      BC_COM
 github_username:    berlinsilkroad
 facebook_username:  berlinsilkroad
-qq:  1061972754
+qq:  2092225917
 #twitter_username:  berlinsilkroad
 
 
@@ -57,17 +57,17 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: berlinsilkroad
+disqus_username: berlinsilkroad
 
 # Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+#gitalk:
+  #enable: true    #是否开启Gitalk评论
+ # clientID: f2c84e7629bb1446c1a4                            #生成的clientID
+  #clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  #repo: qiubaiying.github.io    #仓库名称
+  #owner: qiubaiying    #github用户名
+  #admin: qiubaiying
+  #distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
@@ -101,7 +101,7 @@ friends: [
     {
         title: "berlin",
         href: "http://botron.club"
-    },,{
+    },{
         title: "Apple",
         href: "https://apple.com"
     },{
