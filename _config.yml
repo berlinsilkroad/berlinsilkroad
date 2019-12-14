@@ -1,8 +1,8 @@
 # Site settings
-title: BY Blog
-SEOTitle: 丝路精灵的博客 | berlins Blog
+title: Berlins Blog
+SEOTitle: 丝路精灵的博客 | berlins Blog #显示在浏览器上搜索的时候显示的标题
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: botron.campus@aliyun.com
 description: "Every failure is leading towards success."
 keyword: "berlins Blog, 丝路精灵的博客, qiubaiying, 丝路精灵, iOS, Apple, iPhone"
 url: "http://berlinsilkroad.github.io"          # your host, for absolute URL
@@ -12,11 +12,11 @@ github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
-# SNS settings
+# SNS settings  社交账号的用户名
 RSS: false
 # weibo_username:     qiubaiying
 zhihu_username:     qiubaiying
@@ -77,8 +77,8 @@ gitalk:
 # ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+#ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+#ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -99,7 +99,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
+        title: "berlin",
         href: "http://botron.club"
     },,{
         title: "Apple",
